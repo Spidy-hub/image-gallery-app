@@ -4,7 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+![image](https://github.com/Spidy-hub/image-gallery-app/assets/96255993/52a4dda1-ddfb-410b-85d9-f88adabd295d)
+
+![image](https://github.com/Spidy-hub/image-gallery-app/assets/96255993/6e6e696a-3c7f-42db-a910-9a93e92810af)
+
+![Uploading image.png…]()
+
 
 ### `npm start`
 
